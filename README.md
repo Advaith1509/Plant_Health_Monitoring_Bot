@@ -1,4 +1,4 @@
-Plant Health Monitoring Bot 🌱🤖    
+# Plant Health Monitoring Bot 🌱🤖    
 
 ## FEATURES  
 - **Line-following mechanism**: Enables the bot to navigate predefined paths autonomously.  
