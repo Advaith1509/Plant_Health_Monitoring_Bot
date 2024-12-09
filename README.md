@@ -19,7 +19,7 @@
 6. **GSM Module**: For real-time SMS updates.  
 7. **24V Lithium-Ion Battery**: Rechargeable power supply.  
 
-## _WORKING _
+## _WORKING_
 1. **Navigation**:  
    - The bot follows a predefined path using a line-following mechanism.  
 2. **Environment Sensing**:  
@@ -34,7 +34,7 @@
 5. **Data Collection**:  
    - The collected data is processed to assess plant health conditions.  
 
-## _FUTURE IMPROVEMENTS _
+## _FUTURE IMPROVEMENTS_
 - Adding wireless data transmission for cloud-based real-time monitoring.  
 - Integrating a water dispensing system for automated irrigation.  
 - Enhancing navigation for uneven terrains.  
